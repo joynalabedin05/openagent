@@ -1,0 +1,5 @@
+{{#user}}
+My name is Joynal Abedin.
+Here are my skills : html, css ,js ,react, next.js, express.js, mongodb. 
+My email id is joynal05101933@gmail.com.
+ {{/user}}
